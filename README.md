@@ -1,4 +1,4 @@
-# Ibrahim Cybersecurity Journey
+# 🔒Ibrahim Cybersecurity Journey
 
 Welcome to my cybersecurity learning portfolio.
 
