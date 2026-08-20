@@ -1,11 +1,11 @@
 # 🔒 Cybersecurity Lab Environment Setup
 Building an isolated virtual lab for penetration testing and ethical hacking practice
-
+__________________________________
 # 📌 Project Overview
 This project is about creating a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux. The main objective of this lab
 is to build a secure and controlled environment where different cybersecurity tools, network scanning techniques, reconnaissance processes, vulnerability assessments, and other security testing activities can be practiced safely and repeatedly.
 The laboratory is set up on a private virtual network, allowing more virtual machines to be added in the future and used as target systems for authorized security testing and learning purposes.
-
+__________________________________
 # 🎯 Objectives
 The main objectives of this project include:
 • Installing and configuring VirtualBox for virtualization.
@@ -17,7 +17,7 @@ The main objectives of this project include:
 • Creating a clean virtual machine snapshot for backup and easy recovery.
 • Recording and documenting the entire laboratory setup process.
 • Preparing the lab environment for future cybersecurity learning and practical projects.
-
+__________________________________
 # 🛡️ Purpose of the Lab
 This laboratory is designed to provide a secure, isolated, and controlled environment for cybersecurity education and authorized security testing.
 It allows users to practice security techniques, explore cybersecurity tools, and perform testing activities without affecting real-world systems.
@@ -31,22 +31,22 @@ The lab can be used for tasks such as:
 • Experimenting with different cybersecurity tools and technologies.
 
 ⚠️ Important: This laboratory should only be used for systems that you own or have received clear authorization to test. Never use the lab, its tools, or security techniques to access or attack systems without permission.
-
+__________________________________
 # 🏗️ Lab Architecture
 Additional target machines can be added to the same virtual network in future projects.
-
-# ⚙️ Lab Configuration
-|🧩 Component	| |⚙️ Configuration|
 __________________________________
-|🖥️ Host OS|	|Windows 10|
-|🧠 Host RAM|	|8 GB|
-|⚡ Processor|	|Intel Core i7|
-|🧰 Hypervisor	|VirtualBox 7.2|
-|🐉 Security OS|	|Kali Linux 2026.2|
-|🧠 Kali RAM|	|2048 MB|
-|🌐 Virtual Network|	|NAT Network|
-| 📡 Network Address||10.0.0.0/24|
-|🐧 Kali IP Address|	|10.0.0.2/24|
-|🚪 Default Gateway|	|10.0.0.1|
-|🌍 DNS Server|	|8.8.8.8|
-|🔮 Future VM Range|	|10.0.0.3–10.0.0.99|
+# ⚙️ Lab Configuration
+| 🧩 Component | ⚙️ Configuration |
+|---|---|
+| 🖥️ Host OS | Windows 10 |
+| 🧠 Host RAM | 8 GB |
+| ⚡ Processor | Intel Core i7 |
+| 🧰 Hypervisor | VirtualBox 7.2 |
+| 🐉 Security OS | Kali Linux 2026.2 |
+| 🧠 Kali RAM | 2048 MB |
+| 🌐 Virtual Network | NAT Network |
+| 📡 Network Address | 10.0.0.0/24 |
+| 🐧 Kali IP Address | 10.0.0.2/24 |
+| 🚪 Default Gateway | 10.0.0.1 |
+| 🌍 DNS Server | 8.8.8.8 |
+| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
