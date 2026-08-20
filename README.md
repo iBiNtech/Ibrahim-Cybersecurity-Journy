@@ -205,7 +205,7 @@ _________________________
 **Ibrahim Mustapha**
 Cybersecurity Professional B082
 
-**LinkedIn:** https://www.linkedin.com/in/ibraheem-mustapha-066301278?trk=contact-info
+**LinkedIn:** www.linkedin.com/in/ibrahim-mustapha-066301278
 _________________________
 ## 📌 Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
