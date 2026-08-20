@@ -29,8 +29,6 @@ The lab can be used for tasks such as:
 - Testing web application security.
 - Practicing exploitation techniques in a controlled environment.
 - Experimenting with different cybersecurity tools and technologies.
-
-_____________________________
 > ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 _________________________
 # 🏗️ Lab Architecture
@@ -55,15 +53,15 @@ _________________________
 
 # 🪜 Lab Setup Procedure
 _________________________
-# Step 1. Install 7-Zip
+## Step 1. Install 7-Zip
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a .7z archive.
 
 **Tool:** 7-Zip
 _________________________
-# Step 2. Install VirtualBox
+## Step 2. Install VirtualBox
 VirtualBox was installed as the hypervisor.
 _________________________
-# Step 3. Create the NAT Network
+## Step 3. Create the NAT Network
 A dedicated NAT Network was created in VirtualBox.
 
 Configuration: Network Name: NatNetwork IPv4 Prefix: 10.0.0.0/24 DHCP: Enabled IPv6: Disabled
@@ -73,7 +71,7 @@ A **NAT Network** was selected because multiple virtual machines connected to th
 
 This will allow future attacker and target VMs to communicate within the lab.
 _________________________
-# Step 4. Import Kali Linux
+## Step 4. Import Kali Linux
 The Kali Linux virtual machine was downloaded from the official Kali Linux website and imported into VirtualBox.
 
 The VM network adapter was configured as follows:
@@ -92,7 +90,7 @@ RAM: 2048 MB
 ! [](Homekali.png)
  A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
-# Step 5. Configure the Kali Linux Network
+## Step 5. Configure the Kali Linux Network
 The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
 
 Example configuration:
@@ -107,7 +105,7 @@ DNS: 8.8.8.8
 (Natnetconfig.png)
 
 _________________________
-# Step 6. Create a Clean VM Snapshot
+## Step 6. Create a Clean VM Snapshot
 After completing the initial configuration, a VirtualBox snapshot was created.
 
 Example snapshot name:
@@ -207,7 +205,7 @@ _________________________
 **Ibrahim Mustapha**
 Cybersecurity Professional B082
 
-**LinkedIn:**
+**LinkedIn:** https://www.linkedin.com/in/ibraheem-mustapha-066301278?trk=contact-info
 _________________________
 ## 📌 Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
