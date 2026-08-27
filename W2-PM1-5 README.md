@@ -1,4 +1,4 @@
-
+![PENETRATION TESTING REPORT] (PENT.png)
 
 ## 1. Introduction
 
@@ -10,7 +10,7 @@ Throughout these exercises, I practiced different methods of gathering informati
 
 All practical activities were performed in controlled and authorized environments for educational, training, and legitimate cybersecurity assessment purposes. The report documents the tools and techniques used, the procedures followed, observations made, screenshots of the practical work, and the security relevance of the findings.
 
-## 3. Tools Used
+## 2. Tools Used
 
 The following tools and technologies were used during the Week 2 practical activities:
 
@@ -29,9 +29,9 @@ The following tools and technologies were used during the Week 2 practical activ
 | Zenmap            | Used as a graphical interface for Nmap to scan the local network and identify active hosts and network information        |
 | Windows CMD       | Used to identify local network configuration, IP address, and MAC address information                                     |
 
-## 4. Activities Performed
+## 3. Activities Performed
 
-### 4.1 W2-PM1: Multiple Kali Linux Tools
+### 3.1 W2-PM1: Multiple Kali Linux Tools
 
 In this practical, I used multiple Kali Linux tools to perform basic footprinting and reconnaissance against an authorized target. The purpose was to understand how different tools can be used to collect different types of information during a cybersecurity assessment.
 
@@ -39,7 +39,7 @@ The tools used included **WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, and DNSRecon*
 
 The practical activities provided information about domain infrastructure, web technologies, HTTP headers, potential Web Application Firewall (WAF) protection, DNS records, and publicly discoverable information such as email addresses, hosts, and related domain information. These results showed how multiple reconnaissance techniques can be combined during the information-gathering phase of a security assessment.
 
-### 4.2 W2-PM2: GHDB
+### 3.2 W2-PM2: GHDB
 
 For W2-PM2, I explored the **Google Hacking Database (GHDB)** to understand how advanced search operators can be used to identify information that has been publicly indexed by search engines.
 
@@ -47,7 +47,7 @@ The practical focused on understanding different search techniques and how secur
 
 This exercise improved my understanding of the importance of information exposure and how improperly indexed information can potentially increase an organization's attack surface.
 
-### 4.3 W2-PM3: Maltego
+### 3.3 W2-PM3: Maltego
 
 For W2-PM3, I used **Maltego** as a reconnaissance and link-analysis tool. The practical introduced me to the process of collecting and visually connecting information related to a target.
 
@@ -55,7 +55,7 @@ Maltego helped demonstrate how different pieces of information, such as domains,
 
 This practical improved my understanding of how security professionals can organize and analyze reconnaissance information during an assessment.
 
-### 4.4 W2-PM4: TheHarvester-Based Footprinting Attacks
+### 3.4 W2-PM4: TheHarvester-Based Footprinting Attacks
 
 In W2-PM4, I used **TheHarvester** to perform authorized footprinting against the specified target. The objective was to gather publicly available information that could be useful during the reconnaissance stage of a security assessment.
 
@@ -63,7 +63,7 @@ The exercise focused on understanding how tools such as TheHarvester can collect
 
 The practical demonstrated the importance of monitoring publicly exposed information because information gathered during footprinting can potentially be useful to an attacker during the early stages of an attack.
 
-### 4.5 W2-PM5: Zenmap-Based Network Scanning
+### 3.5 W2-PM5: Zenmap-Based Network Scanning
 
 For W2-PM5, I used **Zenmap**, the graphical interface for Nmap, to conduct network discovery on my authorized local network. The objective was to identify the local network range, discover active hosts, obtain available IP and MAC address information, and visualize the discovered network topology.
 
@@ -73,7 +73,7 @@ The scan results enabled me to identify live devices connected to my local netwo
 
 This practical provided hands-on experience with network discovery and demonstrated how security professionals can use authorized scanning tools to understand the devices and network structure within a local environment.
 
-## 5. Risk Analysis / Impact
+## 4. Risk Analysis / Impact
 
 Based on the information collected during the footprinting, reconnaissance, and network scanning activities, I identified the following potential security risks and observations. These findings represent information-disclosure and reconnaissance-related concerns rather than confirmed vulnerabilities.
 
@@ -96,7 +96,7 @@ Based on the information collected during the footprinting, reconnaissance, and 
 
 The identified observations highlight the importance of minimizing unnecessary information exposure, maintaining secure configurations, monitoring publicly available information, and regularly reviewing devices and services within an authorized network environment.
 
-## 6. Recommendations
+## 5. Recommendations
 
 Based on the observations from the Week 2 footprinting, reconnaissance, GHDB, Maltego, TheHarvester, and network scanning activities, I recommend the following security measures:
 
@@ -140,7 +140,7 @@ Network diagrams, IP addresses, device information, and other relevant infrastru
 
 Footprinting, reconnaissance, scanning, vulnerability assessment, and other security testing activities should only be conducted on systems and networks where appropriate permission has been obtained. This ensures that security assessments are performed legally, ethically, and responsibly.
 
-## 7. Conclusion
+## 6. Conclusion
 
 During Week 2 of my Cybersecurity and Ethical Hacking internship at NetworkWalks, I completed practical exercises covering footprinting, reconnaissance, information gathering, and network scanning.
 
@@ -157,3 +157,11 @@ Overall, these practical exercises improved my understanding of how cybersecurit
 The exercises further strengthened my understanding of professional cybersecurity documentation. A good security report should clearly explain the activities performed, tools used, observations made, potential risks, and recommended security measures.
 
 Finally, I learned the importance of conducting all reconnaissance and scanning activities within an authorized and ethical scope. All activities documented in this report were performed for approved educational, training, and cybersecurity assessment purposes.
+
+## 7. Evidence Collected 
+![W2-PM1 (Multiple Kali Tools)] (W2-PM1.png)
+
+![W2-PM2(GHDB) & PM3(Maltego)] (W2-PM23.png)
+
+![W2-PM4(TheHarvester) & PM5(Zenmap)] (W2-PM45.png)
+
