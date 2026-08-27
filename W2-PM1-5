@@ -1,0 +1,70 @@
+
+
+**1. Introduction**
+This report presents the practical activities I completed during Week 2 of my cybersecurity internship at NetworkWalks. The week focused on practical network security concepts, reconnaissance, information gathering, and network scanning using different cybersecurity tools and techniques.
+
+The practical activities covered five main tasks: W2-PM1: Multiple Kali Linux Tools, W2-PM2: Google Hacking Database (GHDB), W2-PM3: Maltego, W2-PM4: TheHarvester-Based Footprinting Attacks, and W2-PM5: Zenmap-Based Network Scanning.
+
+Throughout these exercises, I practiced different methods of gathering information about a target, identifying publicly available information, performing footprinting and reconnaissance, and scanning an authorized local network to identify active hosts and available network information.
+
+All practical activities were performed in controlled and authorized environments for educational, training, and legitimate cybersecurity assessment purposes. The report documents the tools and techniques used, the procedures followed, observations made, screenshots of the practical work, and the security relevance of the findings.
+
+3. Tools Used
+
+The following tools and technologies were used during the Week 2 practical activities:
+
+Tool / Technology	Purpose
+Kali Linux	Operating system used for cybersecurity reconnaissance and security testing
+WHOIS	Used to obtain publicly available domain registration information
+WhatWeb	Used to identify web technologies and information about a website
+Nslookup	Used to perform DNS queries and resolve domain names to IP addresses
+cURL	Used to retrieve HTTP response headers from a website
+Wafw00f	Used to identify whether a website is protected by a Web Application Firewall (WAF)
+DNSRecon	Used to perform DNS enumeration and gather DNS-related information
+GHDB	Used to explore advanced search queries for publicly indexed information
+Maltego	Used for visual link analysis and information gathering during reconnaissance
+TheHarvester	Used to gather publicly available information such as domains, subdomains, email addresses, and other reconnaissance data
+Zenmap	Used as a graphical interface for Nmap to scan the local network and identify active hosts and network information
+Windows CMD	Used to identify local network configuration, IP address, and MAC address information
+4. Activities Performed
+4.1 W2-PM1: Multiple Kali Linux Tools
+
+In this practical, I used multiple Kali Linux tools to perform basic footprinting and reconnaissance against an authorized target. The purpose was to understand how different tools can be used to collect different types of information during a cybersecurity assessment.
+
+The tools used included WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, and DNSRecon. Each tool was used for a specific reconnaissance task, such as identifying domain registration details, discovering web technologies, resolving DNS information, examining HTTP response headers, detecting web application firewalls, and enumerating DNS records.
+
+This practical helped me understand how information from different sources can be combined to build a better understanding of a target's publicly exposed infrastructure.
+
+4.2 W2-PM2: GHDB
+
+For W2-PM2, I explored the Google Hacking Database (GHDB) to understand how advanced search operators can be used to identify information that has been publicly indexed by search engines.
+
+The practical focused on understanding different search techniques and how security researchers can use them during reconnaissance to discover publicly available information about websites and systems.
+
+This exercise improved my understanding of the importance of information exposure and how improperly indexed information can potentially increase an organization's attack surface.
+
+4.3 W2-PM3: Maltego
+
+For W2-PM3, I used Maltego as a reconnaissance and link-analysis tool. The practical introduced me to the process of collecting and visually connecting information related to a target.
+
+Maltego helped demonstrate how different pieces of information, such as domains, DNS-related data, and other publicly available entities, can be connected to provide a broader view of a target's digital footprint.
+
+This practical improved my understanding of how security professionals can organize and analyze reconnaissance information during an assessment.
+
+4.4 W2-PM4: TheHarvester-Based Footprinting Attacks
+
+In W2-PM4, I used TheHarvester to perform authorized footprinting against the specified target. The objective was to gather publicly available information that could be useful during the reconnaissance stage of a security assessment.
+
+The exercise focused on understanding how tools such as TheHarvester can collect information from publicly available sources, including domains, subdomains, email addresses, and other relevant data where available.
+
+The practical demonstrated the importance of monitoring publicly exposed information because information gathered during footprinting can potentially be useful to an attacker during the early stages of an attack.
+
+4.5 W2-PM5: Zenmap-Based Network Scanning
+
+For W2-PM5, I used Zenmap, the graphical interface for Nmap, to perform network scanning within an authorized local network.
+
+The practical involved identifying the local network range and scanning the subnet to discover active hosts and obtain available network information such as IP addresses and MAC addresses.
+
+I also used Windows Command Prompt to identify my local IP address and MAC address before performing the network scan. The exercise helped me understand the relationship between IP addressing, subnetting, active hosts, and network discovery.
+
+This practical provided hands-on experience with network scanning and demonstrated how network administrators and security professionals can use scanning tools to understand the devices present within an authorized network.
