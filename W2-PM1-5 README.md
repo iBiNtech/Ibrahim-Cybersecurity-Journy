@@ -1,4 +1,4 @@
-![PENETRATION TESTING REPORT] (PENT.png)
+![PENETRATION TESTING REPORT](PENT.png)
 
 ## 1. Introduction
 
@@ -159,9 +159,9 @@ The exercises further strengthened my understanding of professional cybersecurit
 Finally, I learned the importance of conducting all reconnaissance and scanning activities within an authorized and ethical scope. All activities documented in this report were performed for approved educational, training, and cybersecurity assessment purposes.
 
 ## 7. Evidence Collected 
-![W2-PM1 (Multiple Kali Tools)] (W2-PM1.png)
+![W2-PM1 (Multiple Kali Tools)](W2-PM1.png)
 
-![W2-PM2(GHDB) & PM3(Maltego)] (W2-PM23.png)
+![W2-PM2(GHDB) & PM3(Maltego)](W2-PM23.png)
 
-![W2-PM4(TheHarvester) & PM5(Zenmap)] (W2-PM45.png)
+![W2-PM4(TheHarvester) & PM5(Zenmap)](W2-PM45.png)
 
