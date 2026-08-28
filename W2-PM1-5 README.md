@@ -171,15 +171,20 @@ This laboratory is intended strictly for education purposes only.
 _________________________
 # 🔗 Tools & Resources
 **1. Kali Commands:** 
--whois
--whatweb
--curl
--wafw00f
--nslookup
--dnsrecon
+
+- whois
+- whatweb
+- curl
+- wafw00f
+- nslookup
+- dnsrecon
+
 **2. Google Hacking Database (www.exploit-db.com)**
+
 **3. Maltego (https://maltego.com)**
+
 **4. TheHarvester (open the TheHarvester in kali from the menu bar)**
+
 **5. Zenmap (https://nmap.org/download.html)**
 _________________________
 # 👤 Author
