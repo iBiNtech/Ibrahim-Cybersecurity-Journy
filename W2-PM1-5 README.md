@@ -165,3 +165,30 @@ Finally, I learned the importance of conducting all reconnaissance and scanning 
 
 ![W2-PM4(TheHarvester) & PM5(Zenmap)](W2-PM45.png)
 
+_________________________
+# 🔐 Security & Ethical Use
+This laboratory is intended strictly for education purposes only.
+_________________________
+# 🔗 Tools & Resources
+**1. Kali Commands:** 
+-whois
+-whatweb
+-curl
+-wafw00f
+-nslookup
+-dnsrecon
+**2. Google Hacking Database (www.exploit-db.com)**
+**3. Maltego (https://maltego.com)**
+**4. TheHarvester (open the TheHarvester in kali from the menu bar)**
+**5. Zenmap (https://nmap.org/download.html)**
+_________________________
+# 👤 Author
+**Ibrahim Mustapha**
+Cybersecurity Professional B082A
+
+**LinkedIn:** www.linkedin.com/in/ibrahim-mustapha-066301278
+_________________________
+## 📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Footprinting and Network Scanning Phases | Repository: GitHub
+
+
